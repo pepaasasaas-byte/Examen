@@ -1,0 +1,23 @@
+[
+  {
+    "id": "001",
+    "nombre": "Luis Fernández",
+    "direccion": "Avenida Arequipa 890",
+    "celular": "99999999",
+    "tipo_cliente": "Premium"
+  },
+  {
+    "id": "002",
+    "nombre": "María Quispe",
+    "direccion": "Av. Kennedy 110",
+    "celular": "988776655",
+    "tipo_cliente": "Normal"
+  },
+  {
+    "id": "003",
+    "nombre": "Pedro Huamán",
+    "direccion": "Calle Lima 220",
+    "celular": "955223344",
+    "tipo_cliente": "Premium"
+  }
+]
